@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://lampstand.madamori.org/</loc>
+    <lastmod>2022-02-25T12:27:22-08:00</lastmod>
+  </url><url>
+    <loc>http://lampstand.madamori.org/posts/</loc>
+    <lastmod>2022-02-25T12:27:22-08:00</lastmod>
+  </url><url>
+    <loc>http://lampstand.madamori.org/posts/my-first-post/</loc>
+    <lastmod>2022-02-25T12:27:22-08:00</lastmod>
+  </url><url>
+    <loc>http://lampstand.madamori.org/categories/</loc>
+  </url><url>
+    <loc>http://lampstand.madamori.org/tags/</loc>
+  </url>
+</urlset>

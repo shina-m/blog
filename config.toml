@@ -1,0 +1,33 @@
+baseURL = 'https://shina-m.github.io'
+languageCode = 'en-us'
+title = 'LampStand'
+copyright = "&copy; <a href=\"http://lampstand.madamori.org/\">LampStand</a> 2022"
+theme = "charaka-hugo-theme" # "paper"
+[Author] # Used in authorbox
+  name = "John Doe"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
+  avatar = "img/avatar.png"
+
+
+[Params]
+  # description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
+  # copyright = "madamori.org" # Copyright holder, otherwise will use .Site.Title
+  # opengraph = true # Enable OpenGraph if true
+  # twitter_cards = true # Enable Twitter Cards if true
+  # columns = 2 # Set the number of cards columns. Possible values: 1, 2, 3
+  # mainSections = ["post"] # Set main page sections
+  # post_meta = ["date", "categories"] # Enable post meta fields in given order
+  # dateFormat = "January 02, 2006" # Change the format of dates
+  # colorTheme = "" # dark-green, dark-blue, dark-red, dark-violet
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  # mainMenuAlignment = "right" # Align main menu (desktop version) to the right side
+  # authorbox = true # Show authorbox at bottom of single pages if true
+  # toc = true # Enable Table of Contents for all site pages
+  # tocOpen = true # Open Table of Contents block. Optional
+  # comments = true # Enable comments for all site pages
+  # related = true # Enable Related content for single pages
+  # relatedMax = 5 # Set the maximum number of posts that can be displayed in related block. Optional
+  # mathjax = true # Enable MathJax for all site pages
+  # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path. Optional
+  # mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
+  # hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
