@@ -1,17 +1,28 @@
 baseURL = 'https://shina-m.github.io'
 languageCode = 'en-us'
 title = 'LampStand'
-copyright = "&copy; <a href=\"http://lampstand.madamori.org/\">LampStand</a> 2022"
-theme = "charaka-hugo-theme" # "paper"
+copyright = "&copy; <a href=\"http://blog.madamori.org/\">madamori.org</a> 2022"
+# theme = "yinyang" # anubis, charaka-hugo-theme, paper, yinyang
+theme = "yinyang" # anubis
+publishDir = "docs"
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
-  avatar = "img/avatar.png"
+  name = "shina"
+  # bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
+  # avatar = "img/avatar.png"
 
 
 [Params]
+  headTitle = "Home"
   # description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
-  # copyright = "madamori.org" # Copyright holder, otherwise will use .Site.Title
+  author = "Shina Madamori"
+  copyright = "madamori.org" # Copyright holder, otherwise will use .Site.Title
+  # dateFormat = "2006-01-02"
+  # style = "auto"
+  readMore = true # show read more button
+  readNextPosts = 5  # show 5 related posts, 0 by default
+  disableSummary = false
+  copyCodeButton =true # true by default
+  rssAsSocialIcon = true # show read more button
   # opengraph = true # Enable OpenGraph if true
   # twitter_cards = true # Enable Twitter Cards if true
   # columns = 2 # Set the number of cards columns. Possible values: 1, 2, 3
@@ -31,3 +42,7 @@ theme = "charaka-hugo-theme" # "paper"
   # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path. Optional
   # mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
   # hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

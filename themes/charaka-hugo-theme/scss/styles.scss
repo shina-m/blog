@@ -56,7 +56,7 @@ body{
     justify-content: center;
 
     h1 {
-        font-size: 1.8em;
+        font-size: 2.8em;
         color: $link;
     }
 
@@ -86,7 +86,8 @@ body{
 }
 
 .content {
-    text-align: justify;
+    text-align: justify;/
+    font-size: larger;
 
     h1, h2, h3, h4, h5, h6 {
         font-weight: normal;
