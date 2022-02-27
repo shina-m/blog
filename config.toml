@@ -1,6 +1,6 @@
 baseURL = 'https://shina-m.github.io'
 languageCode = 'en-us'
-title = 'LampStand'
+title = 'A Shining Lamp'
 copyright = "&copy; <a href=\"http://blog.madamori.org/\">madamori.org</a> 2022"
 # theme = "yinyang" # anubis, charaka-hugo-theme, paper, yinyang
 theme = "yinyang" # anubis
