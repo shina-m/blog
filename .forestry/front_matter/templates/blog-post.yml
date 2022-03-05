@@ -11,5 +11,3 @@ fields:
   config:
     date_format: ''
     time_format: ''
-pages:
-- content/posts/test-post.md
