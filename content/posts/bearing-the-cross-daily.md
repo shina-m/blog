@@ -1,6 +1,6 @@
 +++
 date = 2021-10-02T15:00:00Z
-title = "BEARING THE CROSS DAILY"
+title = "Bearing the Cross Daily"
 
 +++
 2 Corinthians 4:10-11 “Always carrying about in the body the dying of Jesus, so that the life of Jesus also may be manifested in our body. For we who live are constantly being delivered over to death for Jesus’ sake, so that the life of Jesus also may be manifested in our mortal flesh”.
