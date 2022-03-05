@@ -12,8 +12,8 @@ theme = "anubis" # anubis, yinyang, charaka-hugo-theme, paper,
 [Params]
   headTitle = "Home"
   # description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
-  author = "Alex Onuodugo"
-  copyright = "Alex Onuodugo" # Copyright holder, otherwise will use .Site.Title
+  author = "Alex Onodugo"
+  copyright = "Alex Onodugo" # Copyright holder, otherwise will use .Site.Title
   dateFormat = "2006-01-02"
   # style = "auto"
   readMore = true # show read more button
