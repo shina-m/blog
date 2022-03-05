@@ -1,0 +1,5 @@
++++
+date = 2021-10-02T15:00:00Z
+title = "BEARING THE CROSS DAILY"
+
++++
