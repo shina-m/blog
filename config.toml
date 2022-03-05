@@ -2,7 +2,7 @@ baseURL = 'https://alex-onodugo.netlify.app'
 languageCode = 'en-us'
 title = 'Alex Blog'
 # copyright = "&copy; <a href=\"http://blog.madamori.org/\">madamori.org</a> 2022"
-theme = "paper" # anubis, yinyang, charaka-hugo-theme, paper, 
+theme = "anubis" # anubis, yinyang, charaka-hugo-theme, paper, 
 # publishDir = "docs"
 [Author] # Used in authorbox
   name = "alex"
